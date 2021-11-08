@@ -1,1 +1,1 @@
-# godaddy
+# go
